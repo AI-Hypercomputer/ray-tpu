@@ -19,4 +19,4 @@ Run the following command to install the package:
 pip install ray-tpu
 ```
 
-Check out the tutorials section for more details.
+Check out the [tutorials section](https://github.com/AI-Hypercomputer/ray-tpu/tree/main/tutorials/0-basic%20tutorial) for more details.
