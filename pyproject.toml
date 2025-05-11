@@ -4,10 +4,10 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ray-tpu"
-version = "0.0.4"
+version = "0.0.5"
 authors = [
-  { name="Allen Wang", email="allencwang@google.com"},
   { name="Richard Liu", email="ricliu@google.com" },
+  { name="Quinn Yan", email="qinyiyan@google.com" },
 ]
 description = "An utility for running Ray with Cloud TPUs"
 readme = "README.md"
